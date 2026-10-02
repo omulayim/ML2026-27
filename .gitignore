@@ -1,0 +1,18 @@
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# IPyNb state and history
+.ipynb_checkpoints
+.local
+
+# Python files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.venv/
+env/
+.env/
